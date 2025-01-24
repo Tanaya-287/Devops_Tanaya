@@ -1,0 +1,2 @@
+heyy this is first practical of devops
+we are using git 
